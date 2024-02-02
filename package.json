@@ -22,7 +22,12 @@
   },
   "author": "zhufuge",
   "license": "MIT",
-   "devDependencies": {
-    "mocha": "^3.3.0"
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "chai": "^5.0.3",
+    "mtrx": "^0.1.6"
   }
 }
